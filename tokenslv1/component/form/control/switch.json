@@ -1,0 +1,299 @@
+{
+  "form": {
+    "controls": {
+      "switch": {
+        "not-selected": {
+          "default": {
+            "border": {
+              "type": "border",
+              "value": {
+                "color": "{form.controls.switch.not-selected.default.border-color}",
+                "width": "{form.controls.switch.border-width}",
+                "style": "solid"
+              }
+            },
+            "background-color": {
+              "type": "color",
+              "value": "{surface.color.interactive.neutral.transparent}"
+            },
+            "border-color": {
+              "type": "color",
+              "value": "{surface.color.input.border.default}"
+            },
+            "icon": {
+              "color": {
+                "type": "color",
+                "value": "{surface.color.interactive.info.on-inverse}"
+              }
+            }
+          },
+          "hover": {
+            "border": {
+              "type": "border",
+              "value": {
+                "color": "{form.controls.switch.not-selected.hover.border-color}",
+                "width": "{form.controls.switch.border-width}",
+                "style": "solid"
+              }
+            },
+            "background-color": {
+              "type": "color",
+              "value": "{surface.color.input.background.selected}"
+            },
+            "border-color": {
+              "type": "color",
+              "value": "{surface.color.input.border.hover}"
+            },
+            "icon": {
+              "color": {
+                "type": "color",
+                "value": "{surface.color.interactive.info.on-inverse}"
+              }
+            }
+          },
+          "pressed": {
+            "border": {
+              "type": "border",
+              "value": {
+                "color": "{form.controls.switch.not-selected.pressed.border-color}",
+                "width": "{form.controls.switch.border-width}",
+                "style": "solid"
+              }
+            },
+            "background-color": {
+              "type": "color",
+              "value": "{surface.color.interactive.info.default}"
+            },
+            "border-color": {
+              "type": "color",
+              "value": "{surface.color.input.border.pressed}"
+            },
+            "icon": {
+              "color": {
+                "type": "color",
+                "value": "{surface.color.interactive.neutral.on-neutral}"
+              }
+            }
+          },
+          "disabled": {
+            "border": {
+              "type": "border",
+              "value": {
+                "color": "{form.controls.switch.not-selected.disabled.border-color}",
+                "width": "{form.controls.switch.border-width}",
+                "style": "solid"
+              }
+            },
+            "background-color": {
+              "type": "color",
+              "value": "{surface.color.input.background.disabled}"
+            },
+            "border-color": {
+              "type": "color",
+              "value": "{surface.color.input.border.disabled}"
+            },
+            "icon": {
+              "color": {
+                "type": "color",
+                "value": "{surface.color.interactive.disabled.foreground.default}"
+              }
+            }
+          },
+          "inactive": {
+            "border": {
+              "type": "border",
+              "value": {
+                "color": "{form.controls.switch.not-selected.inactive.border-color}",
+                "width": "{form.controls.switch.border-width}",
+                "style": "solid"
+              }
+            },
+            "background-color": {
+              "type": "color",
+              "value": "{surface.color.input.background.inactive}"
+            },
+            "border-color": {
+              "type": "color",
+              "value": "{surface.color.input.border.inactive}"
+            },
+            "icon": {
+              "color": {
+                "type": "color",
+                "value": "{surface.color.interactive.disabled.foreground.default}"
+              }
+            }
+          }
+        },
+        "selected": {
+          "default": {
+            "border": {
+              "type": "border",
+              "value": {
+                "color": "{form.controls.switch.selected.default.border-color}",
+                "width": "{form.controls.switch.border-width}",
+                "style": "solid"
+              }
+            },
+            "background-color": {
+              "type": "color",
+              "value": "{surface.color.interactive.info.default}"
+            },
+            "border-color": {
+              "type": "color",
+              "value": "{surface.color.input.border.default}"
+            },
+            "icon": {
+              "color": {
+                "type": "color",
+                "value": "{surface.color.interactive.info.on-info}"
+              }
+            }
+          },
+          "hover": {
+            "border": {
+              "type": "border",
+              "value": {
+                "color": "{form.controls.switch.selected.hover.border-color}",
+                "width": "{form.controls.switch.border-width}",
+                "style": "solid"
+              }
+            },
+            "background-color": {
+              "type": "color",
+              "value": "{surface.color.interactive.info.emphasis}"
+            },
+            "border-color": {
+              "type": "color",
+              "value": "{surface.color.input.border.hover}"
+            },
+            "icon": {
+              "color": {
+                "type": "color",
+                "value": "{surface.color.interactive.info.on-info}"
+              }
+            }
+          },
+          "pressed": {
+            "border": {
+              "type": "border",
+              "value": {
+                "color": "{form.controls.switch.selected.pressed.border-color}",
+                "width": "{form.controls.switch.border-width}",
+                "style": "solid"
+              }
+            },
+            "background-color": {
+              "type": "color",
+              "value": "{surface.color.interactive.info.glass}"
+            },
+            "border-color": {
+              "type": "color",
+              "value": "{surface.color.input.border.pressed}"
+            },
+            "icon": {
+              "color": {
+                "type": "color",
+                "value": "{surface.color.interactive.info.on-inverse}"
+              }
+            }
+          },
+          "disabled": {
+            "border": {
+              "type": "border",
+              "value": {
+                "color": "{form.controls.switch.selected.disabled.border-color}",
+                "width": "{form.controls.switch.border-width}",
+                "style": "solid"
+              }
+            },
+            "background-color": {
+              "type": "color",
+              "value": "{surface.color.interactive.disabled.background.default}"
+            },
+            "border-color": {
+              "type": "color",
+              "value": "{surface.color.input.border.disabled}"
+            },
+            "icon": {
+              "color": {
+                "type": "color",
+                "value": "{surface.color.interactive.disabled.foreground.default}"
+              }
+            }
+          },
+          "inactive": {
+            "border": {
+              "type": "border",
+              "value": {
+                "color": "{form.controls.switch.selected.inactive.border-color}",
+                "width": "{form.controls.switch.border-width}",
+                "style": "solid"
+              }
+            },
+            "background-color": {
+              "type": "color",
+              "value": "{surface.color.interactive.info.default}"
+            },
+            "border-color": {
+              "type": "color",
+              "value": "{surface.color.input.border.inactive}"
+            },
+            "icon": {
+              "color": {
+                "type": "color",
+                "value": "{surface.color.interactive.disabled.foreground.on-inverse}"
+              }
+            }
+          }
+        },
+        "border-radius": {
+          "type": "dimension",
+          "value": "{density.dimensions.interaction.border-radius.full}"
+        },
+        "border-width": {
+          "type": "dimension",
+          "value": "{density.dimensions.interaction.border-width.default}"
+        },
+        "padding": {
+          "type": "dimension",
+          "value": "{density.dimensions.interaction.space.none}"
+        },
+        "focus": {
+          "border-radius": {
+            "type": "dimension",
+            "value": "{form.controls.switch.border-radius} + {density.dimensions.interaction.focus.offset}"
+          }
+        },
+        "height": {
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {}
+            }
+          },
+          "type": "dimension",
+          "value": "{density.dimensions.interaction.control.default.size}"
+        },
+        "icon": {
+          "size": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {}
+              }
+            },
+            "type": "dimension",
+            "value": "{density.dimensions.interaction.control.default.size}"
+          }
+        },
+        "width": {
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {}
+            }
+          },
+          "type": "dimension",
+          "value": "{density.dimensions.interaction.control.default.size} * 2"
+        }
+      }
+    }
+  }
+}
