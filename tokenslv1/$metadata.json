@@ -12,6 +12,7 @@
     "primitives/radix-colors-v2",
     "primitives/dimensions",
     "primitives/radix-shadows",
+    "unicorn-set/colors",
     "modes/light",
     "modes/dark",
     "brands/tokensstudio",
@@ -34,6 +35,7 @@
     "component/form/control/input",
     "component/form/control/group",
     "component/form/control/select",
-    "component/form/control/toggle-group"
+    "component/form/control/toggle-group",
+    "unicorn-set"
   ]
 }
