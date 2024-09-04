@@ -1,7 +1,8 @@
 {
   "shadows": {
-    "light": {
-      "1": {
+    "light": [
+      null,
+      {
         "type": "boxShadow",
         "value": [
           {
@@ -30,7 +31,7 @@
           }
         ]
       },
-      "2": {
+      {
         "type": "boxShadow",
         "value": [
           {
@@ -75,7 +76,7 @@
           }
         ]
       },
-      "3": {
+      {
         "type": "boxShadow",
         "value": [
           {
@@ -112,7 +113,7 @@
           }
         ]
       },
-      "4": {
+      {
         "type": "boxShadow",
         "value": [
           {
@@ -141,7 +142,7 @@
           }
         ]
       },
-      "5": {
+      {
         "type": "boxShadow",
         "value": [
           {
@@ -170,7 +171,7 @@
           }
         ]
       },
-      "6": {
+      {
         "type": "boxShadow",
         "value": [
           {
@@ -207,9 +208,10 @@
           }
         ]
       }
-    },
-    "dark": {
-      "1": {
+    ],
+    "dark": [
+      null,
+      {
         "type": "boxShadow",
         "value": [
           {
@@ -246,7 +248,7 @@
           }
         ]
       },
-      "2": {
+      {
         "type": "boxShadow",
         "value": [
           {
@@ -291,7 +293,7 @@
           }
         ]
       },
-      "3": {
+      {
         "type": "boxShadow",
         "value": [
           {
@@ -328,7 +330,7 @@
           }
         ]
       },
-      "4": {
+      {
         "type": "boxShadow",
         "value": [
           {
@@ -357,7 +359,7 @@
           }
         ]
       },
-      "5": {
+      {
         "type": "boxShadow",
         "value": [
           {
@@ -386,7 +388,7 @@
           }
         ]
       },
-      "6": {
+      {
         "type": "boxShadow",
         "value": [
           {
@@ -423,7 +425,7 @@
           }
         ]
       }
-    },
+    ],
     "components": {
       "default": {
         "type": "boxShadow",
@@ -524,33 +526,20 @@
     }
   },
   "NOTES": {
-    "radix-shadow": {
-      "1": {
+    "radix-shadow": [
+      null,
+      {
         "type": "other",
         "value": "inset"
       },
-      "6": {
+      null,
+      null,
+      null,
+      null,
+      {
         "type": "other",
         "value": "larger overlay panels like dialog"
-      },
-      "2to3": {
-        "type": "other",
-        "value": "classic panels like a card"
-      },
-      "4to5": {
-        "type": "other",
-        "value": "smaller overlay panels like hover card and popover"
-      },
-      "source-code": {
-        "type": "other",
-        "value": "Github",
-        "description": "Shadows source code CSS file: \nhttps://github.com/radix-ui/themes/blob/main/packages/radix-ui-themes/src/styles/tokens/shadow.css\n\n"
-      },
-      "docs": {
-        "type": "other",
-        "value": "radix theme documentation",
-        "description": "Read the docs:\nhttps://www.radix-ui.com/themes/docs/theme/shadows\n"
       }
-    }
+    ]
   }
 }

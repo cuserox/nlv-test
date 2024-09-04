@@ -1,411 +1,416 @@
 {
   "mode-colors": {
-    "gray": {
-      "1": {
+    "gray": [
+      null,
+      {
         "type": "color",
         "value": "{colors.gray.dark.1}"
       },
-      "2": {
+      {
         "type": "color",
         "value": "{colors.gray.dark.2}"
       },
-      "3": {
+      {
         "type": "color",
         "value": "{colors.gray.dark.3}"
       },
-      "4": {
+      {
         "type": "color",
         "value": "{colors.gray.dark.4}"
       },
-      "5": {
+      {
         "type": "color",
         "value": "{colors.gray.dark.5}"
       },
-      "6": {
+      {
         "type": "color",
         "value": "{colors.gray.dark.6}"
       },
-      "7": {
+      {
         "type": "color",
         "value": "{colors.gray.dark.7}"
       },
-      "8": {
+      {
         "type": "color",
         "value": "{colors.gray.dark.8}"
       },
-      "9": {
+      {
         "type": "color",
         "value": "{colors.gray.dark.9}"
       },
-      "10": {
+      {
         "type": "color",
         "value": "{colors.gray.dark.10}"
       },
-      "11": {
+      {
         "type": "color",
         "value": "{colors.gray.dark.11}"
       },
-      "12": {
+      {
         "type": "color",
         "value": "{colors.gray.dark.12}"
-      },
-      "on-gray": {
-        "type": "color",
-        "value": "{colors.gray.light.1}"
       }
-    },
-    "gray-alpha": {
-      "1": {
+    ],
+    "gray-alpha": [
+      null,
+      {
         "type": "color",
         "value": "{colors.gray.dark-alpha.1}"
       },
-      "2": {
+      {
         "type": "color",
         "value": "{colors.gray.dark-alpha.2}"
       },
-      "3": {
+      {
         "type": "color",
         "value": "{colors.gray.dark-alpha.3}"
       },
-      "4": {
+      {
         "type": "color",
         "value": "{colors.gray.dark-alpha.4}"
       },
-      "5": {
+      {
         "type": "color",
         "value": "{colors.gray.dark-alpha.5}"
       },
-      "6": {
+      {
         "type": "color",
         "value": "{colors.gray.dark-alpha.6}"
       },
-      "7": {
+      {
         "type": "color",
         "value": "{colors.gray.dark-alpha.7}"
       },
-      "8": {
+      {
         "type": "color",
         "value": "{colors.gray.dark-alpha.8}"
       },
-      "9": {
+      {
         "type": "color",
         "value": "{colors.gray.dark-alpha.9}"
       },
-      "10": {
+      {
         "type": "color",
         "value": "{colors.gray.dark-alpha.10}"
       },
-      "11": {
+      {
         "type": "color",
         "value": "{colors.gray.dark-alpha.11}"
       },
-      "12": {
+      {
         "type": "color",
         "value": "{colors.gray.dark-alpha.12}"
       }
-    },
-    "purple": {
-      "1": {
+    ],
+    "purple": [
+      null,
+      {
         "type": "color",
         "value": "{colors.purple.dark.1}"
       },
-      "2": {
+      {
         "type": "color",
         "value": "{colors.purple.dark.2}"
       },
-      "3": {
+      {
         "type": "color",
         "value": "{colors.purple.dark.3}"
       },
-      "4": {
+      {
         "type": "color",
         "value": "{colors.purple.dark.4}"
       },
-      "5": {
+      {
         "type": "color",
         "value": "{colors.purple.dark.5}"
       },
-      "6": {
+      {
         "type": "color",
         "value": "{colors.purple.dark.6}"
       },
-      "7": {
+      {
         "type": "color",
         "value": "{colors.purple.dark.7}"
       },
-      "8": {
+      {
         "type": "color",
         "value": "{colors.purple.dark.8}"
       },
-      "9": {
+      {
         "type": "color",
         "value": "{colors.purple.dark.9}"
       },
-      "10": {
+      {
         "type": "color",
         "value": "{colors.purple.dark.10}"
       },
-      "11": {
+      {
         "type": "color",
         "value": "{colors.purple.dark.11}"
       },
-      "12": {
+      {
         "type": "color",
         "value": "{colors.purple.dark.12}"
       }
-    },
-    "purple-alpha": {
-      "1": {
+    ],
+    "purple-alpha": [
+      null,
+      {
         "type": "color",
         "value": "{colors.purple.dark-alpha.1}"
       },
-      "2": {
+      {
         "type": "color",
         "value": "{colors.purple.dark-alpha.2}"
       },
-      "3": {
+      {
         "type": "color",
         "value": "{colors.purple.dark-alpha.3}"
       },
-      "4": {
+      {
         "type": "color",
         "value": "{colors.purple.dark-alpha.4}"
       },
-      "5": {
+      {
         "type": "color",
         "value": "{colors.purple.dark-alpha.5}"
       },
-      "6": {
+      {
         "type": "color",
         "value": "{colors.purple.dark-alpha.6}"
       },
-      "7": {
+      {
         "type": "color",
         "value": "{colors.purple.dark-alpha.7}"
       },
-      "8": {
+      {
         "type": "color",
         "value": "{colors.purple.dark-alpha.8}"
       },
-      "9": {
+      {
         "type": "color",
         "value": "{colors.purple.dark-alpha.9}"
       },
-      "10": {
+      {
         "type": "color",
         "value": "{colors.purple.dark-alpha.10}"
       },
-      "11": {
+      {
         "type": "color",
         "value": "{colors.purple.dark-alpha.11}"
       },
-      "12": {
+      {
         "type": "color",
         "value": "{colors.purple.dark-alpha.12}"
       }
-    },
-    "blue": {
-      "1": {
+    ],
+    "blue": [
+      null,
+      {
         "type": "color",
         "value": "{colors.indigo.dark.1}"
       },
-      "2": {
+      {
         "type": "color",
         "value": "{colors.indigo.dark.2}"
       },
-      "3": {
+      {
         "type": "color",
         "value": "{colors.indigo.dark.3}"
       },
-      "4": {
+      {
         "type": "color",
         "value": "{colors.indigo.dark.4}"
       },
-      "5": {
+      {
         "type": "color",
         "value": "{colors.indigo.dark.5}"
       },
-      "6": {
+      {
         "type": "color",
         "value": "{colors.indigo.dark.6}"
       },
-      "7": {
+      {
         "type": "color",
         "value": "{colors.indigo.dark.7}"
       },
-      "8": {
+      {
         "type": "color",
         "value": "{colors.indigo.dark.8}"
       },
-      "9": {
+      {
         "type": "color",
         "value": "{colors.indigo.dark.9}"
       },
-      "10": {
+      {
         "type": "color",
         "value": "{colors.indigo.dark.10}"
       },
-      "11": {
+      {
         "type": "color",
         "value": "{colors.indigo.dark.11}"
       },
-      "12": {
+      {
         "type": "color",
         "value": "{colors.indigo.dark.12}"
       }
-    },
-    "blue-alpha": {
-      "1": {
+    ],
+    "blue-alpha": [
+      null,
+      {
         "type": "color",
         "value": "{colors.indigo.dark-alpha.1}"
       },
-      "2": {
+      {
         "type": "color",
         "value": "{colors.indigo.dark-alpha.2}"
       },
-      "3": {
+      {
         "type": "color",
         "value": "{colors.indigo.dark-alpha.3}"
       },
-      "4": {
+      {
         "type": "color",
         "value": "{colors.indigo.dark-alpha.4}"
       },
-      "5": {
+      {
         "type": "color",
         "value": "{colors.indigo.dark-alpha.5}"
       },
-      "6": {
+      {
         "type": "color",
         "value": "{colors.indigo.dark-alpha.6}"
       },
-      "7": {
+      {
         "type": "color",
         "value": "{colors.indigo.dark-alpha.7}"
       },
-      "8": {
+      {
         "type": "color",
         "value": "{colors.indigo.dark-alpha.8}"
       },
-      "9": {
+      {
         "type": "color",
         "value": "{colors.indigo.dark-alpha.9}"
       },
-      "10": {
+      {
         "type": "color",
         "value": "{colors.indigo.dark-alpha.10}"
       },
-      "11": {
+      {
         "type": "color",
         "value": "{colors.indigo.dark-alpha.11}"
       },
-      "12": {
+      {
         "type": "color",
         "value": "{colors.indigo.dark-alpha.12}"
       }
-    },
-    "cyan": {
-      "1": {
+    ],
+    "cyan": [
+      null,
+      {
         "type": "color",
         "value": "{colors.cyan.dark.1}"
       },
-      "2": {
+      {
         "type": "color",
         "value": "{colors.cyan.dark.2}"
       },
-      "3": {
+      {
         "type": "color",
         "value": "{colors.cyan.dark.3}"
       },
-      "4": {
+      {
         "type": "color",
         "value": "{colors.cyan.dark.4}"
       },
-      "5": {
+      {
         "type": "color",
         "value": "{colors.cyan.dark.5}"
       },
-      "6": {
+      {
         "type": "color",
         "value": "{colors.cyan.dark.6}"
       },
-      "7": {
+      {
         "type": "color",
         "value": "{colors.cyan.dark.7}"
       },
-      "8": {
+      {
         "type": "color",
         "value": "{colors.cyan.dark.8}"
       },
-      "9": {
+      {
         "type": "color",
         "value": "{colors.cyan.dark.9}"
       },
-      "10": {
+      {
         "type": "color",
         "value": "{colors.cyan.dark.10}"
       },
-      "11": {
+      {
         "type": "color",
         "value": "{colors.cyan.dark.11}"
       },
-      "12": {
+      {
         "type": "color",
         "value": "{colors.cyan.dark.12}"
       }
-    },
-    "cyan-alpha": {
-      "1": {
+    ],
+    "cyan-alpha": [
+      null,
+      {
         "type": "color",
         "value": "{colors.cyan.dark-alpha.1}"
       },
-      "2": {
+      {
         "type": "color",
         "value": "{colors.cyan.dark-alpha.2}"
       },
-      "3": {
+      {
         "type": "color",
         "value": "{colors.cyan.dark-alpha.3}"
       },
-      "4": {
+      {
         "type": "color",
         "value": "{colors.cyan.dark-alpha.4}"
       },
-      "5": {
+      {
         "type": "color",
         "value": "{colors.cyan.dark-alpha.5}"
       },
-      "6": {
+      {
         "type": "color",
         "value": "{colors.cyan.dark-alpha.6}"
       },
-      "7": {
+      {
         "type": "color",
         "value": "{colors.cyan.dark-alpha.7}"
       },
-      "8": {
+      {
         "type": "color",
         "value": "{colors.cyan.dark-alpha.8}"
       },
-      "9": {
+      {
         "type": "color",
         "value": "{colors.cyan.dark-alpha.9}"
       },
-      "10": {
+      {
         "type": "color",
         "value": "{colors.cyan.dark-alpha.10}"
       },
-      "11": {
+      {
         "type": "color",
         "value": "{colors.cyan.dark-alpha.11}"
       },
-      "12": {
+      {
         "type": "color",
         "value": "{colors.cyan.dark-alpha.12}"
       }
-    },
-    "shadows": {
-      "1": {
+    ],
+    "shadows": [
+      null,
+      {
         "type": "boxShadow",
         "value": [
           {
@@ -434,7 +439,7 @@
           }
         ]
       },
-      "2": {
+      {
         "type": "boxShadow",
         "value": [
           {
@@ -479,7 +484,7 @@
           }
         ]
       },
-      "3": {
+      {
         "type": "boxShadow",
         "value": [
           {
@@ -516,7 +521,7 @@
           }
         ]
       },
-      "4": {
+      {
         "type": "boxShadow",
         "value": [
           {
@@ -545,7 +550,7 @@
           }
         ]
       },
-      "5": {
+      {
         "type": "boxShadow",
         "value": [
           {
@@ -574,7 +579,7 @@
           }
         ]
       },
-      "6": {
+      {
         "type": "boxShadow",
         "value": [
           {
@@ -610,220 +615,211 @@
             "type": "dropShadow"
           }
         ]
-      },
-      "none": {
-        "type": "boxShadow",
-        "value": [
-          {
-            "x": "0",
-            "y": "0",
-            "blur": "0",
-            "spread": "0",
-            "color": "transparent",
-            "type": "innerShadow"
-          }
-        ]
       }
-    },
-    "red": {
-      "1": {
+    ],
+    "red": [
+      null,
+      {
         "type": "color",
         "value": "{colors.ruby.dark.1}"
       },
-      "2": {
+      {
         "type": "color",
         "value": "{colors.ruby.dark.2}"
       },
-      "3": {
+      {
         "type": "color",
         "value": "{colors.ruby.dark.3}"
       },
-      "4": {
+      {
         "type": "color",
         "value": "{colors.ruby.dark.4}"
       },
-      "5": {
+      {
         "type": "color",
         "value": "{colors.ruby.dark.5}"
       },
-      "6": {
+      {
         "type": "color",
         "value": "{colors.ruby.dark.6}"
       },
-      "7": {
+      {
         "type": "color",
         "value": "{colors.ruby.dark.7}"
       },
-      "8": {
+      {
         "type": "color",
         "value": "{colors.ruby.dark.8}"
       },
-      "9": {
+      {
         "type": "color",
         "value": "{colors.ruby.dark.9}"
       },
-      "10": {
+      {
         "type": "color",
         "value": "{colors.ruby.dark.10}"
       },
-      "11": {
+      {
         "type": "color",
         "value": "{colors.ruby.dark.11}"
       },
-      "12": {
+      {
         "type": "color",
         "value": "{colors.ruby.dark.12}"
       }
-    },
-    "red-alpha": {
-      "1": {
+    ],
+    "red-alpha": [
+      null,
+      {
         "type": "color",
         "value": "{colors.ruby.dark-alpha.1}"
       },
-      "2": {
+      {
         "type": "color",
         "value": "{colors.ruby.dark-alpha.2}"
       },
-      "3": {
+      {
         "type": "color",
         "value": "{colors.ruby.dark-alpha.3}"
       },
-      "4": {
+      {
         "type": "color",
         "value": "{colors.ruby.dark-alpha.4}"
       },
-      "5": {
+      {
         "type": "color",
         "value": "{colors.ruby.dark-alpha.5}"
       },
-      "6": {
+      {
         "type": "color",
         "value": "{colors.ruby.dark-alpha.6}"
       },
-      "7": {
+      {
         "type": "color",
         "value": "{colors.ruby.dark-alpha.7}"
       },
-      "8": {
+      {
         "type": "color",
         "value": "{colors.ruby.dark-alpha.8}"
       },
-      "9": {
+      {
         "type": "color",
         "value": "{colors.ruby.dark-alpha.9}"
       },
-      "10": {
+      {
         "type": "color",
         "value": "{colors.ruby.dark-alpha.10}"
       },
-      "11": {
+      {
         "type": "color",
         "value": "{colors.ruby.dark-alpha.11}"
       },
-      "12": {
+      {
         "type": "color",
         "value": "{colors.ruby.dark-alpha.12}"
       }
-    },
-    "green": {
-      "1": {
+    ],
+    "green": [
+      null,
+      {
         "type": "color",
         "value": "{colors.jade.dark.1}"
       },
-      "2": {
+      {
         "type": "color",
         "value": "{colors.jade.dark.2}"
       },
-      "3": {
+      {
         "type": "color",
         "value": "{colors.jade.dark.3}"
       },
-      "4": {
+      {
         "type": "color",
         "value": "{colors.jade.dark.4}"
       },
-      "5": {
+      {
         "type": "color",
         "value": "{colors.jade.dark.5}"
       },
-      "6": {
+      {
         "type": "color",
         "value": "{colors.jade.dark.6}"
       },
-      "7": {
+      {
         "type": "color",
         "value": "{colors.jade.dark.7}"
       },
-      "8": {
+      {
         "type": "color",
         "value": "{colors.jade.dark.8}"
       },
-      "9": {
+      {
         "type": "color",
         "value": "{colors.jade.dark.9}"
       },
-      "10": {
+      {
         "type": "color",
         "value": "{colors.jade.dark.10}"
       },
-      "11": {
+      {
         "type": "color",
         "value": "{colors.jade.dark.11}"
       },
-      "12": {
+      {
         "type": "color",
         "value": "{colors.jade.dark.12}"
       }
-    },
-    "green-alpha": {
-      "1": {
+    ],
+    "green-alpha": [
+      null,
+      {
         "type": "color",
         "value": "{colors.jade.dark-alpha.1}"
       },
-      "2": {
+      {
         "type": "color",
         "value": "{colors.jade.dark-alpha.2}"
       },
-      "3": {
+      {
         "type": "color",
         "value": "{colors.jade.dark-alpha.3}"
       },
-      "4": {
+      {
         "type": "color",
         "value": "{colors.jade.dark-alpha.4}"
       },
-      "5": {
+      {
         "type": "color",
         "value": "{colors.jade.dark-alpha.5}"
       },
-      "6": {
+      {
         "type": "color",
         "value": "{colors.jade.dark-alpha.6}"
       },
-      "7": {
+      {
         "type": "color",
         "value": "{colors.jade.dark-alpha.7}"
       },
-      "8": {
+      {
         "type": "color",
         "value": "{colors.jade.dark-alpha.8}"
       },
-      "9": {
+      {
         "type": "color",
         "value": "{colors.jade.dark-alpha.9}"
       },
-      "10": {
+      {
         "type": "color",
         "value": "{colors.jade.dark-alpha.10}"
       },
-      "11": {
+      {
         "type": "color",
         "value": "{colors.jade.dark-alpha.11}"
       },
-      "12": {
+      {
         "type": "color",
         "value": "{colors.jade.dark-alpha.12}"
       }
-    }
+    ]
   }
 }

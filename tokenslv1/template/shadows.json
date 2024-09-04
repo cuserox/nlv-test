@@ -1,7 +1,27 @@
 {
   "Shadow": {
-    "Theme_Light": {
-      "20": {
+    "Theme_Light": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
         "type": "boxShadow",
         "value": [
           {
@@ -22,7 +42,26 @@
           }
         ]
       },
-      "40": {
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
         "type": "boxShadow",
         "value": [
           {
@@ -43,7 +82,26 @@
           }
         ]
       },
-      "60": {
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
         "type": "boxShadow",
         "value": [
           {
@@ -64,7 +122,26 @@
           }
         ]
       },
-      "80": {
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
         "type": "boxShadow",
         "value": [
           {
@@ -85,7 +162,26 @@
           }
         ]
       },
-      "100": {
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
         "type": "boxShadow",
         "value": [
           {
@@ -106,9 +202,29 @@
           }
         ]
       }
-    },
-    "Theme_Dark": {
-      "20": {
+    ],
+    "Theme_Dark": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
         "type": "boxShadow",
         "value": [
           {
@@ -129,7 +245,26 @@
           }
         ]
       },
-      "40": {
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
         "type": "boxShadow",
         "value": [
           {
@@ -150,7 +285,26 @@
           }
         ]
       },
-      "60": {
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
         "type": "boxShadow",
         "value": [
           {
@@ -171,7 +325,26 @@
           }
         ]
       },
-      "80": {
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
         "type": "boxShadow",
         "value": [
           {
@@ -192,7 +365,26 @@
           }
         ]
       },
-      "100": {
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
         "type": "boxShadow",
         "value": [
           {
@@ -213,6 +405,6 @@
           }
         ]
       }
-    }
+    ]
   }
 }

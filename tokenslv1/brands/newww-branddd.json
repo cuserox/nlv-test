@@ -240,48 +240,49 @@
       }
     },
     "dimensions": {
-      "responsive": {
-        "1": {
+      "responsive": [
+        null,
+        {
           "type": "dimension",
           "value": "{scale.rem.2xs}"
         },
-        "2": {
+        {
           "type": "dimension",
           "value": "{scale.rem.xs}"
         },
-        "3": {
+        {
           "type": "dimension",
           "value": "{scale.rem.sm}"
         },
-        "4": {
+        {
           "type": "dimension",
           "value": "{scale.rem.md}"
         },
-        "5": {
+        {
           "type": "dimension",
           "value": "{scale.rem.lg}"
         },
-        "6": {
+        {
           "type": "dimension",
           "value": "{scale.rem.xl}"
         },
-        "7": {
+        {
           "type": "dimension",
           "value": "{scale.rem.2xl}"
         },
-        "8": {
+        {
           "type": "dimension",
           "value": "{scale.rem.3xl}"
         },
-        "9": {
+        {
           "type": "dimension",
           "value": "{scale.rem.4xl}"
         },
-        "10": {
+        {
           "type": "dimension",
           "value": "{scale.rem.5xl}"
         }
-      },
+      ],
       "control": {
         "small": {
           "type": "dimension",
@@ -296,82 +297,76 @@
           "value": "{scale.rem.3xl}"
         }
       },
-      "fixed": {
-        "1": {
+      "fixed": [
+        null,
+        {
           "type": "dimension",
           "value": "1px"
         },
-        "2": {
+        {
           "type": "dimension",
           "value": "2px"
         },
-        "3": {
+        {
           "type": "dimension",
           "value": "{scale.unitless.2xs}px"
         },
-        "4": {
+        {
           "type": "dimension",
           "value": "{scale.unitless.xs}px"
         },
-        "5": {
+        {
           "type": "dimension",
           "value": "{scale.unitless.md}px"
         },
-        "6": {
+        {
           "type": "dimension",
           "value": "{scale.unitless.xl}px"
         },
-        "7": {
+        {
           "type": "dimension",
           "value": "{scale.unitless.2xl}px"
         },
-        "8": {
+        {
           "type": "dimension",
           "value": "{scale.unitless.3xl}px"
         },
-        "9": {
+        {
           "type": "dimension",
           "value": "{scale.unitless.4xl}px"
         },
-        "10": {
+        {
           "type": "dimension",
           "value": "{scale.unitless.5xl}px"
         }
-      },
-      "radius": {
-        "1": {
+      ],
+      "radius": [
+        null,
+        {
           "type": "dimension",
           "value": "{dimensions.fixed.2}"
         },
-        "2": {
+        {
           "type": "dimension",
           "value": "{dimensions.fixed.3}"
         },
-        "3": {
+        {
           "type": "dimension",
           "value": "{dimensions.fixed.4}"
         },
-        "4": {
+        {
           "type": "dimension",
           "value": "{dimensions.fixed.5}"
         },
-        "5": {
+        {
           "type": "dimension",
           "value": "{dimensions.fixed.6}"
         },
-        "6": {
+        {
           "type": "dimension",
           "value": "{dimensions.fixed.7}"
-        },
-        "none": {
-          "type": "dimension",
-          "value": "0px"
-        },
-        "full": {
-          "type": "dimension",
-          "value": "9999px"
         }
-      }
+      ]
     }
   },
   "brand-typography": {
@@ -667,510 +662,516 @@
     }
   },
   "brand-colors": {
-    "neutral": {
-      "1": {
+    "neutral": [
+      null,
+      {
         "type": "color",
         "value": "{mode-colors.gray.1}"
       },
-      "2": {
+      {
         "type": "color",
         "value": "{mode-colors.gray.2}"
       },
-      "3": {
+      {
         "type": "color",
         "value": "{mode-colors.gray.3}"
       },
-      "4": {
+      {
         "type": "color",
         "value": "{mode-colors.gray.4}"
       },
-      "5": {
+      {
         "type": "color",
         "value": "{mode-colors.gray.5}"
       },
-      "6": {
+      {
         "type": "color",
         "value": "{mode-colors.gray.6}"
       },
-      "7": {
+      {
         "type": "color",
         "value": "{mode-colors.gray.7}"
       },
-      "8": {
+      {
         "type": "color",
         "value": "{mode-colors.gray.8}"
       },
-      "9": {
+      {
         "type": "color",
         "value": "{mode-colors.gray.9}"
       },
-      "10": {
+      {
         "type": "color",
         "value": "{mode-colors.gray.10}"
       },
-      "11": {
+      {
         "type": "color",
         "value": "{mode-colors.gray.11}"
       },
-      "12": {
+      {
         "type": "color",
         "value": "{mode-colors.gray.12}"
-      },
-      "on-neutral": {
-        "type": "color",
-        "value": "{mode-colors.gray.on-gray}"
       }
-    },
-    "neutral-alpha": {
-      "1": {
+    ],
+    "neutral-alpha": [
+      null,
+      {
         "type": "color",
         "value": "{mode-colors.gray-alpha.1}"
       },
-      "2": {
+      {
         "type": "color",
         "value": "{mode-colors.gray-alpha.2}"
       },
-      "3": {
+      {
         "type": "color",
         "value": "{mode-colors.gray-alpha.3}"
       },
-      "4": {
+      {
         "type": "color",
         "value": "{mode-colors.gray-alpha.4}"
       },
-      "5": {
+      {
         "type": "color",
         "value": "{mode-colors.gray-alpha.5}"
       },
-      "6": {
+      {
         "type": "color",
         "value": "{mode-colors.gray-alpha.6}"
       },
-      "7": {
+      {
         "type": "color",
         "value": "{mode-colors.gray-alpha.7}"
       },
-      "8": {
+      {
         "type": "color",
         "value": "{mode-colors.gray-alpha.8}"
       },
-      "9": {
+      {
         "type": "color",
         "value": "{mode-colors.gray-alpha.9}"
       },
-      "10": {
+      {
         "type": "color",
         "value": "{mode-colors.gray-alpha.10}"
       },
-      "11": {
+      {
         "type": "color",
         "value": "{mode-colors.gray-alpha.11}"
       },
-      "12": {
+      {
         "type": "color",
         "value": "{mode-colors.gray-alpha.12}"
       }
-    },
-    "primary": {
-      "1": {
+    ],
+    "primary": [
+      null,
+      {
         "type": "color",
         "value": "{mode-colors.cyan.1}"
       },
-      "2": {
+      {
         "type": "color",
         "value": "{mode-colors.cyan.2}"
       },
-      "3": {
+      {
         "type": "color",
         "value": "{mode-colors.cyan.3}"
       },
-      "4": {
+      {
         "type": "color",
         "value": "{mode-colors.cyan.4}"
       },
-      "5": {
+      {
         "type": "color",
         "value": "{mode-colors.cyan.5}"
       },
-      "6": {
+      {
         "type": "color",
         "value": "{mode-colors.cyan.6}"
       },
-      "7": {
+      {
         "type": "color",
         "value": "{mode-colors.cyan.7}"
       },
-      "8": {
+      {
         "type": "color",
         "value": "{mode-colors.cyan.8}"
       },
-      "9": {
+      {
         "type": "color",
         "value": "{mode-colors.cyan.9}"
       },
-      "10": {
+      {
         "type": "color",
         "value": "{mode-colors.cyan.10}"
       },
-      "11": {
+      {
         "type": "color",
         "value": "{mode-colors.cyan.11}"
       },
-      "12": {
+      {
         "type": "color",
         "value": "{mode-colors.cyan.12}"
       }
-    },
-    "primary-alpha": {
-      "1": {
+    ],
+    "primary-alpha": [
+      null,
+      {
         "type": "color",
         "value": "{mode-colors.cyan-alpha.1}"
       },
-      "2": {
+      {
         "type": "color",
         "value": "{mode-colors.cyan-alpha.2}"
       },
-      "3": {
+      {
         "type": "color",
         "value": "{mode-colors.cyan-alpha.3}"
       },
-      "4": {
+      {
         "type": "color",
         "value": "{mode-colors.cyan-alpha.4}"
       },
-      "5": {
+      {
         "type": "color",
         "value": "{mode-colors.cyan-alpha.5}"
       },
-      "6": {
+      {
         "type": "color",
         "value": "{mode-colors.cyan-alpha.6}"
       },
-      "7": {
+      {
         "type": "color",
         "value": "{mode-colors.cyan-alpha.7}"
       },
-      "8": {
+      {
         "type": "color",
         "value": "{mode-colors.cyan-alpha.8}"
       },
-      "9": {
+      {
         "type": "color",
         "value": "{mode-colors.cyan-alpha.9}"
       },
-      "10": {
+      {
         "type": "color",
         "value": "{mode-colors.cyan-alpha.10}"
       },
-      "11": {
+      {
         "type": "color",
         "value": "{mode-colors.cyan-alpha.11}"
       },
-      "12": {
+      {
         "type": "color",
         "value": "{mode-colors.cyan-alpha.12}"
       }
-    },
-    "info": {
-      "1": {
+    ],
+    "info": [
+      null,
+      {
         "type": "color",
         "value": "{mode-colors.purple.1}"
       },
-      "2": {
+      {
         "type": "color",
         "value": "{mode-colors.purple.2}"
       },
-      "3": {
+      {
         "type": "color",
         "value": "{mode-colors.purple.3}"
       },
-      "4": {
+      {
         "type": "color",
         "value": "{mode-colors.purple.4}"
       },
-      "5": {
+      {
         "type": "color",
         "value": "{mode-colors.purple.5}"
       },
-      "6": {
+      {
         "type": "color",
         "value": "{mode-colors.purple.6}"
       },
-      "7": {
+      {
         "type": "color",
         "value": "{mode-colors.purple.7}"
       },
-      "8": {
+      {
         "type": "color",
         "value": "{mode-colors.purple.8}"
       },
-      "9": {
+      {
         "type": "color",
         "value": "{mode-colors.purple.9}"
       },
-      "10": {
+      {
         "type": "color",
         "value": "{mode-colors.purple.10}"
       },
-      "11": {
+      {
         "type": "color",
         "value": "{mode-colors.purple.11}"
       },
-      "12": {
+      {
         "type": "color",
         "value": "{mode-colors.purple.12}"
       }
-    },
-    "info-alpha": {
-      "1": {
+    ],
+    "info-alpha": [
+      null,
+      {
         "type": "color",
         "value": "{mode-colors.purple-alpha.1}"
       },
-      "2": {
+      {
         "type": "color",
         "value": "{mode-colors.purple-alpha.2}"
       },
-      "3": {
+      {
         "type": "color",
         "value": "{mode-colors.purple-alpha.3}"
       },
-      "4": {
+      {
         "type": "color",
         "value": "{mode-colors.purple-alpha.4}"
       },
-      "5": {
+      {
         "type": "color",
         "value": "{mode-colors.purple-alpha.5}"
       },
-      "6": {
+      {
         "type": "color",
         "value": "{mode-colors.purple-alpha.6}"
       },
-      "7": {
+      {
         "type": "color",
         "value": "{mode-colors.purple-alpha.7}"
       },
-      "8": {
+      {
         "type": "color",
         "value": "{mode-colors.purple-alpha.8}"
       },
-      "9": {
+      {
         "type": "color",
         "value": "{mode-colors.purple-alpha.9}"
       },
-      "10": {
+      {
         "type": "color",
         "value": "{mode-colors.purple-alpha.10}"
       },
-      "11": {
+      {
         "type": "color",
         "value": "{mode-colors.purple-alpha.11}"
       },
-      "12": {
+      {
         "type": "color",
         "value": "{mode-colors.purple-alpha.12}"
       }
-    },
-    "success": {
-      "1": {
+    ],
+    "success": [
+      null,
+      {
         "type": "color",
         "value": "{mode-colors.green.1}"
       },
-      "2": {
+      {
         "type": "color",
         "value": "{mode-colors.green.2}"
       },
-      "3": {
+      {
         "type": "color",
         "value": "{mode-colors.green.3}"
       },
-      "4": {
+      {
         "type": "color",
         "value": "{mode-colors.green.4}"
       },
-      "5": {
+      {
         "type": "color",
         "value": "{mode-colors.green.5}"
       },
-      "6": {
+      {
         "type": "color",
         "value": "{mode-colors.green.6}"
       },
-      "7": {
+      {
         "type": "color",
         "value": "{mode-colors.green.7}"
       },
-      "8": {
+      {
         "type": "color",
         "value": "{mode-colors.green.8}"
       },
-      "9": {
+      {
         "type": "color",
         "value": "{mode-colors.green.9}"
       },
-      "10": {
+      {
         "type": "color",
         "value": "{mode-colors.green.10}"
       },
-      "11": {
+      {
         "type": "color",
         "value": "{mode-colors.green.11}"
       },
-      "12": {
+      {
         "type": "color",
         "value": "{mode-colors.green.12}"
       }
-    },
-    "success-alpha": {
-      "1": {
+    ],
+    "success-alpha": [
+      null,
+      {
         "type": "color",
         "value": "{mode-colors.green-alpha.1}"
       },
-      "2": {
+      {
         "type": "color",
         "value": "{mode-colors.green-alpha.2}"
       },
-      "3": {
+      {
         "type": "color",
         "value": "{mode-colors.green-alpha.3}"
       },
-      "4": {
+      {
         "type": "color",
         "value": "{mode-colors.green-alpha.4}"
       },
-      "5": {
+      {
         "type": "color",
         "value": "{mode-colors.green-alpha.5}"
       },
-      "6": {
+      {
         "type": "color",
         "value": "{mode-colors.green-alpha.6}"
       },
-      "7": {
+      {
         "type": "color",
         "value": "{mode-colors.green-alpha.7}"
       },
-      "8": {
+      {
         "type": "color",
         "value": "{mode-colors.green-alpha.8}"
       },
-      "9": {
+      {
         "type": "color",
         "value": "{mode-colors.green-alpha.9}"
       },
-      "10": {
+      {
         "type": "color",
         "value": "{mode-colors.green-alpha.10}"
       },
-      "11": {
+      {
         "type": "color",
         "value": "{mode-colors.green-alpha.11}"
       },
-      "12": {
+      {
         "type": "color",
         "value": "{mode-colors.green-alpha.12}"
       }
-    },
-    "danger": {
-      "1": {
+    ],
+    "danger": [
+      null,
+      {
         "type": "color",
         "value": "{mode-colors.red.1}"
       },
-      "2": {
+      {
         "type": "color",
         "value": "{mode-colors.red.2}"
       },
-      "3": {
+      {
         "type": "color",
         "value": "{mode-colors.red.3}"
       },
-      "4": {
+      {
         "type": "color",
         "value": "{mode-colors.red.4}"
       },
-      "5": {
+      {
         "type": "color",
         "value": "{mode-colors.red.5}"
       },
-      "6": {
+      {
         "type": "color",
         "value": "{mode-colors.red.6}"
       },
-      "7": {
+      {
         "type": "color",
         "value": "{mode-colors.red.7}"
       },
-      "8": {
+      {
         "type": "color",
         "value": "{mode-colors.red.8}"
       },
-      "9": {
+      {
         "type": "color",
         "value": "{mode-colors.red.9}"
       },
-      "10": {
+      {
         "type": "color",
         "value": "{mode-colors.red.10}"
       },
-      "11": {
+      {
         "type": "color",
         "value": "{mode-colors.red.11}"
       },
-      "12": {
+      {
         "type": "color",
         "value": "{mode-colors.red.12}"
       }
-    },
-    "danger-alpha": {
-      "1": {
+    ],
+    "danger-alpha": [
+      null,
+      {
         "type": "color",
         "value": "{mode-colors.red-alpha.1}"
       },
-      "2": {
+      {
         "type": "color",
         "value": "{mode-colors.red-alpha.2}"
       },
-      "3": {
+      {
         "type": "color",
         "value": "{mode-colors.red-alpha.3}"
       },
-      "4": {
+      {
         "type": "color",
         "value": "{mode-colors.red-alpha.4}"
       },
-      "5": {
+      {
         "type": "color",
         "value": "{mode-colors.red-alpha.5}"
       },
-      "6": {
+      {
         "type": "color",
         "value": "{mode-colors.red-alpha.6}"
       },
-      "7": {
+      {
         "type": "color",
         "value": "{mode-colors.red-alpha.7}"
       },
-      "8": {
+      {
         "type": "color",
         "value": "{mode-colors.red-alpha.8}"
       },
-      "9": {
+      {
         "type": "color",
         "value": "{mode-colors.red-alpha.9}"
       },
-      "10": {
+      {
         "type": "color",
         "value": "{mode-colors.red-alpha.10}"
       },
-      "11": {
+      {
         "type": "color",
         "value": "{mode-colors.red-alpha.11}"
       },
-      "12": {
+      {
         "type": "color",
         "value": "{mode-colors.red-alpha.12}"
       }
-    },
+    ],
     "shades": {
       "black": {
         "type": "color",
